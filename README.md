@@ -1,4 +1,12 @@
-# 100-Days-Figma
+<!DOCTYPE html>
+<html>
+<body>
+<h1 align="center">
+        <samp>&gt; <b>100 DAYS OF FIGMA</b>
+        </samp>
+</h1>
+
+<hr
 I have start investing time in practising UI through the 100 Days of Figma challenge.
          <!--3-->
  <p align="center">
@@ -9,3 +17,5 @@ I have start investing time in practising UI through the 100 Days of Figma chall
      <a href="">(Open in Figma)</a>
   </p>
        
+</body>
+</html>
